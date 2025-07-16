@@ -1,5 +1,3 @@
-#lex_auth_01269363490743091290
-
 def display(num):
     message=""
     if num % 3 == 0 and num % 5 == 0:
